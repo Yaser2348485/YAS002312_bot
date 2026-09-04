@@ -19,7 +19,7 @@ from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 
 BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 DATABASE_URL = "postgresql://user:password@localhost/anonymous_chat_db"
-ADMIN_IDS = {123456789}
+ADMIN_IDS = {7810107484}
 
 TRIAL_DAYS = 14
 DAILY_LIMIT = 15 * 60
